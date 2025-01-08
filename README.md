@@ -1,2 +1,2 @@
 Warren Buffet Ai
-https://warrenbuffetai.streamlit.app
+https://warrenbuffettai.streamlit.app
